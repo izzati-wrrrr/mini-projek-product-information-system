@@ -4,12 +4,20 @@
 Product Information System adalah sistem sederhana untuk mengelola dan menampilkan informasi produk. Sistem ini menggunakan konsep pemisahan antara Data Layer, Processing Layer, dan Presentation Layer.
 
 ## Struktur Project
-Product_Information_System/
-│
-├── products.php
-├── functions.php
-├── index.php
-└── README.md
+
+Project ini terdiri dari beberapa file utama, yaitu:
+
+**1. products.php**  
+Digunakan untuk menyimpan data produk bakery.
+
+**2. functions.php**  
+Digunakan untuk mengolah data produk, seperti menghitung nilai stok dan mengecek stok kritis.
+
+**3. index.php**  
+Digunakan untuk menampilkan informasi produk dalam bentuk tabel.
+
+**4. README.md**  
+Berisi penjelasan mengenai project dan cara menjalankannya.
 
 ## Arsitektur Sistem
 ### 1. Data Layer
