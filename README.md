@@ -4,6 +4,7 @@
 Product Information System adalah sistem sederhana untuk mengelola dan menampilkan informasi produk. Sistem ini menggunakan konsep pemisahan antara Data Layer, Processing Layer, dan Presentation Layer.
 
 ## Struktur Project
+```text
 Product_Information_System/
 │
 ├── products.php
